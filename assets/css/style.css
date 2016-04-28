@@ -1,0 +1,21 @@
+html, body, .grid {
+  height: 100%
+}
+
+table {
+  border-spacing: collapse;
+  width: 100%;
+  height: 100%;
+}
+
+td {
+  background: #eee;
+}
+
+td.snake {
+  background: #333;
+}
+
+td.food {
+  background: red;
+}
